@@ -31,10 +31,8 @@ wheels/
 scrape_output.json
 crawl_result.json
 batch_scrape_job.json
-*.json
-!package.json
-!package-lock.json
-!tsconfig*.json
+*_output.json
+*_result.json
 
 # IDE
 .idea/
